@@ -52,12 +52,6 @@ If You Want To Clone This Repository Then Do The Following Steps :
 $ git clone https://github.com/dakshp07/superheroes-app.git
 ```
 
-## Images
-![First](images/Screenshot_1601914786.png)
-
-![Second](images/Screenshot_1601915040.png)
-
-![Third](images/Screenshot_1601915456.png)
 
 ## Getting Started
 
